@@ -1,15 +1,1 @@
-### You are learning about codespaces!
- ,
- // Add the IDs of extensions you want installed when the container is created.
- "customizations": {
-     "vscode": {
-         "extensions": [
-             "GitHub.copilot"
-         ]
-     },
-     "codespaces": {
-         "openFiles": [
-             "codespace.md"
-         ]
-     }
- }
+### You are learning about codespaces
